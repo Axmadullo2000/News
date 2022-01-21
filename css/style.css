@@ -50,7 +50,9 @@
   background-position: top;
   padding: 107px 0 0 61px;
 }
-
+.promoBackground {
+  background: url("../img/2.jpg") center center;
+}
 .promo__genre {
   font-weight: bold;
   font-size: 18px;
